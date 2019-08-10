@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Building Java Projects with Gradle
 
 ##### This guide walks you through using Gradle to build a simple Java project.
@@ -347,3 +348,6 @@ Now if you run `gradle build`, Gradle should resolve the Joda Time dependency fr
   }
   // end::wrapper[]
 ```
+=======
+# java-hello-world-with-gradle
+>>>>>>> 1b7ba4dfc7d6f2c57016cde1fcad926c6aa76100
